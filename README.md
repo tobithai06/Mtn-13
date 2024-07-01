@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tobi Thai</h1>
 <h3 align="center">A aspiring engineer from Georgia</h3>
 
+- 🔭 I’m currently working on **my Profile**
+
+- 🌱 I’m currently learning **to code**
+
 - 📫 How to reach me **tobi.thai06@gmail.com**
+
+- ⚡ Fun fact **I love the aesthetic of art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
